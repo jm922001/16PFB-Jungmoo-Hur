@@ -26,3 +26,4 @@ print "Is it less or equal?", 5 <= -2
 
 print "CALTECH in my imagination", (10 + 10) / 2
 
+print 1.0/7
