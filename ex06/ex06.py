@@ -17,4 +17,4 @@ print joke_evaluation % hilarious #
 w = "This is the left side of..."
 e = "a string with a right side."
 
-print w + e #문자열 덧셈
+print w + e
