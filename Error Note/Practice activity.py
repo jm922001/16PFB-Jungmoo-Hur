@@ -1,9 +1,5 @@
-print "You mother fucker."
-print 3+2+2
-print 7-2
+Engine = raw_input("What kind of Engine you use?")
+Target = raw_input("What is target?")
+Name = raw_input("What is it called?")
 
-print 1<2
-print 5<3
-
-print 3<=5
-
+print "So, It use %r engine and heading to %r. It called %r" %(Engine, Target, Name)
