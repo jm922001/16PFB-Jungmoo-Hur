@@ -1,5 +1,5 @@
-Engine = raw_input("What kind of Engine you use?")
-Target = raw_input("What is target?")
-Name = raw_input("What is it called?")
+fuck = raw_input("mother fucker")
+that = raw_input("What the fuck is going on here?")
+shit = raw_input("some shitty thing is happen.")
 
-print "So, It use %r engine and heading to %r. It called %r" %(Engine, Target, Name)
+print "You such a %r. %r %r" %(fuck, that, shit)
