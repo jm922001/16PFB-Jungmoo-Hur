@@ -1,5 +1,10 @@
-fuck = raw_input("mother fucker")
-that = raw_input("What the fuck is going on here?")
-shit = raw_input("some shitty thing is happen.")
+#practice_ex25
 
-print "You such a %r. %r %r" %(fuck, that, shit)
+A = 5
+B = 10
+C = 15
+
+if A>B :
+    print "mother fucker"
+if A<B :
+    print "your not mother fucker"
