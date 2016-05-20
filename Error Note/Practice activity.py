@@ -1,10 +1,10 @@
-#practice_ex25
+A = [x for x in range(1, 1000) if x % 5 == 0]
+print (A)
 
-A = 5
-B = 10
-C = 15
+B = [x for x in range(1, 1000) if x % 3 == 0]
+print (B)
 
-if A>B :
-    print "mother fucker"
-if A<B :
-    print "your not mother fucker"
+
+
+S = sum(A+B)
+print (S)
